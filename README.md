@@ -18,11 +18,8 @@ work without model access, credentials, or a GPU.
 
 ```bash
 python -m unittest discover -s src/vector_space_viz/tests -v
-python -m src.analyze_paired_frame_transitions \\
-  --output-csv reproduced/paired_frame_transitions.csv \\
-  --output-json reproduced/paired_frame_transitions.json
-python -m src.analyze_lexical_frame_transitions \\
-  --output reproduced/lexical_frame_transitions.csv
+python -m src.analyze_paired_frame_transitions --output-csv reproduced/paired_frame_transitions.csv --output-json reproduced/paired_frame_transitions.json
+python -m src.analyze_lexical_frame_transitions --output reproduced/lexical_frame_transitions.csv
 python -m src.vector_space_viz.make_figure1_reframing
 python -m src.vector_space_viz.make_figure2_transitions
 python -m src.vector_space_viz.make_figure3_measurement
