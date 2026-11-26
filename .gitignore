@@ -25,6 +25,7 @@ __pycache__/
 *.pt
 *.jsonl
 AuthorKit27/
+reproduced/
 src/figs/
 src/vector_space_viz/figs/**/*.pdf
 src/vector_space_viz/figs/**/*.png

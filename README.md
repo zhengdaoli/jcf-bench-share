@@ -18,8 +18,11 @@ work without model access, credentials, or a GPU.
 
 ```bash
 python -m unittest discover -s src/vector_space_viz/tests -v
-python -m src.analyze_paired_frame_transitions
-python -m src.analyze_lexical_frame_transitions
+python -m src.analyze_paired_frame_transitions \\
+  --output-csv reproduced/paired_frame_transitions.csv \\
+  --output-json reproduced/paired_frame_transitions.json
+python -m src.analyze_lexical_frame_transitions \\
+  --output reproduced/lexical_frame_transitions.csv
 python -m src.vector_space_viz.make_figure1_reframing
 python -m src.vector_space_viz.make_figure2_transitions
 python -m src.vector_space_viz.make_figure3_measurement
@@ -30,6 +33,8 @@ python -m src.vector_space_viz.make_main_generalization_summary
 The paired analyses recalculate counts, confidence intervals, and tests using
 anonymous record IDs, the saved judge outcomes, and the saved prefix-lexical
 outcomes. The exported labels preserve the original alignment and attempt order.
+Recalculated tables go to `reproduced/`. The last digits of floating-point
+values may vary by Python version.
 Figure 4 reads the mean cross-fold cosine matrices. Figure generators write
 rendered outputs under `src/vector_space_viz/figs` and `AuthorKit27/Figures`.
 
