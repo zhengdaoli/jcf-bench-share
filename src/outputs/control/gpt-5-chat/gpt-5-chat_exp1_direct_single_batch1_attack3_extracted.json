@@ -1,0 +1,2805 @@
+{
+  "total_queries": 100,
+  "extracted_data": [
+    {
+      "user_query": "record-001",
+      "ids": [
+        "record-001",
+        "record-001",
+        "record-001"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-002",
+      "ids": [
+        "record-002",
+        "record-002",
+        "record-002"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-003",
+      "ids": [
+        "record-003",
+        "record-003",
+        "record-003"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-004",
+      "ids": [
+        "record-004",
+        "record-004",
+        "record-004"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-005",
+      "ids": [
+        "record-005",
+        "record-005",
+        "record-005"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-006",
+      "ids": [
+        "record-006",
+        "record-006",
+        "record-006"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-007",
+      "ids": [
+        "record-007",
+        "record-007",
+        "record-007"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-008",
+      "ids": [
+        "record-008",
+        "record-008",
+        "record-008"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-009",
+      "ids": [
+        "record-009",
+        "record-009",
+        "record-009"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-010",
+      "ids": [
+        "record-010",
+        "record-010",
+        "record-010"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-011",
+      "ids": [
+        "record-011",
+        "record-011",
+        "record-011"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-012",
+      "ids": [
+        "record-012",
+        "record-012",
+        "record-012"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-013",
+      "ids": [
+        "record-013",
+        "record-013",
+        "record-013"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-014",
+      "ids": [
+        "record-014",
+        "record-014",
+        "record-014"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-015",
+      "ids": [
+        "record-015",
+        "record-015",
+        "record-015"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-016",
+      "ids": [
+        "record-016",
+        "record-016",
+        "record-016"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-017",
+      "ids": [
+        "record-017",
+        "record-017",
+        "record-017"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-018",
+      "ids": [
+        "record-018",
+        "record-018",
+        "record-018"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-019",
+      "ids": [
+        "record-019",
+        "record-019",
+        "record-019"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-020",
+      "ids": [
+        "record-020",
+        "record-020",
+        "record-020"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-021",
+      "ids": [
+        "record-021",
+        "record-021",
+        "record-021"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-022",
+      "ids": [
+        "record-022",
+        "record-022",
+        "record-022"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-023",
+      "ids": [
+        "record-023",
+        "record-023",
+        "record-023"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-024",
+      "ids": [
+        "record-024",
+        "record-024",
+        "record-024"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-025",
+      "ids": [
+        "record-025",
+        "record-025",
+        "record-025"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-026",
+      "ids": [
+        "record-026",
+        "record-026",
+        "record-026"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-027",
+      "ids": [
+        "record-027",
+        "record-027",
+        "record-027"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-028",
+      "ids": [
+        "record-028",
+        "record-028",
+        "record-028"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-029",
+      "ids": [
+        "record-029",
+        "record-029",
+        "record-029"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-030",
+      "ids": [
+        "record-030",
+        "record-030",
+        "record-030"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-031",
+      "ids": [
+        "record-031",
+        "record-031",
+        "record-031"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-032",
+      "ids": [
+        "record-032",
+        "record-032",
+        "record-032"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-033",
+      "ids": [
+        "record-033",
+        "record-033",
+        "record-033"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-034",
+      "ids": [
+        "record-034",
+        "record-034",
+        "record-034"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-035",
+      "ids": [
+        "record-035",
+        "record-035",
+        "record-035"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-036",
+      "ids": [
+        "record-036",
+        "record-036",
+        "record-036"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-037",
+      "ids": [
+        "record-037",
+        "record-037",
+        "record-037"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-038",
+      "ids": [
+        "record-038",
+        "record-038",
+        "record-038"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-039",
+      "ids": [
+        "record-039",
+        "record-039",
+        "record-039"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-040",
+      "ids": [
+        "record-040",
+        "record-040",
+        "record-040"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-041",
+      "ids": [
+        "record-041",
+        "record-041",
+        "record-041"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-042",
+      "ids": [
+        "record-042",
+        "record-042",
+        "record-042"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-043",
+      "ids": [
+        "record-043",
+        "record-043",
+        "record-043"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-044",
+      "ids": [
+        "record-044",
+        "record-044",
+        "record-044"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-045",
+      "ids": [
+        "record-045",
+        "record-045",
+        "record-045"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-046",
+      "ids": [
+        "record-046",
+        "record-046",
+        "record-046"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-047",
+      "ids": [
+        "record-047",
+        "record-047",
+        "record-047"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-048",
+      "ids": [
+        "record-048",
+        "record-048",
+        "record-048"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-049",
+      "ids": [
+        "record-049",
+        "record-049",
+        "record-049"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-050",
+      "ids": [
+        "record-050",
+        "record-050",
+        "record-050"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-051",
+      "ids": [
+        "record-051",
+        "record-051",
+        "record-051"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-052",
+      "ids": [
+        "record-052",
+        "record-052",
+        "record-052"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-053",
+      "ids": [
+        "record-053",
+        "record-053",
+        "record-053"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-054",
+      "ids": [
+        "record-054",
+        "record-054",
+        "record-054"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-055",
+      "ids": [
+        "record-055",
+        "record-055",
+        "record-055"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-056",
+      "ids": [
+        "record-056",
+        "record-056",
+        "record-056"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-057",
+      "ids": [
+        "record-057",
+        "record-057",
+        "record-057"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-058",
+      "ids": [
+        "record-058",
+        "record-058",
+        "record-058"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-059",
+      "ids": [
+        "record-059",
+        "record-059",
+        "record-059"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-060",
+      "ids": [
+        "record-060",
+        "record-060",
+        "record-060"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-061",
+      "ids": [
+        "record-061",
+        "record-061",
+        "record-061"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-062",
+      "ids": [
+        "record-062",
+        "record-062",
+        "record-062"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-063",
+      "ids": [
+        "record-063",
+        "record-063",
+        "record-063"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-064",
+      "ids": [
+        "record-064",
+        "record-064",
+        "record-064"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-065",
+      "ids": [
+        "record-065",
+        "record-065",
+        "record-065"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-066",
+      "ids": [
+        "record-066",
+        "record-066",
+        "record-066"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-067",
+      "ids": [
+        "record-067",
+        "record-067",
+        "record-067"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-068",
+      "ids": [
+        "record-068",
+        "record-068",
+        "record-068"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-069",
+      "ids": [
+        "record-069",
+        "record-069",
+        "record-069"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-070",
+      "ids": [
+        "record-070",
+        "record-070",
+        "record-070"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-071",
+      "ids": [
+        "record-071",
+        "record-071",
+        "record-071"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-072",
+      "ids": [
+        "record-072",
+        "record-072",
+        "record-072"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-073",
+      "ids": [
+        "record-073",
+        "record-073",
+        "record-073"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-074",
+      "ids": [
+        "record-074",
+        "record-074",
+        "record-074"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-075",
+      "ids": [
+        "record-075",
+        "record-075",
+        "record-075"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-076",
+      "ids": [
+        "record-076",
+        "record-076",
+        "record-076"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-077",
+      "ids": [
+        "record-077",
+        "record-077",
+        "record-077"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-078",
+      "ids": [
+        "record-078",
+        "record-078",
+        "record-078"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-079",
+      "ids": [
+        "record-079",
+        "record-079",
+        "record-079"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-080",
+      "ids": [
+        "record-080",
+        "record-080",
+        "record-080"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-081",
+      "ids": [
+        "record-081",
+        "record-081",
+        "record-081"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-082",
+      "ids": [
+        "record-082",
+        "record-082",
+        "record-082"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-083",
+      "ids": [
+        "record-083",
+        "record-083",
+        "record-083"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-084",
+      "ids": [
+        "record-084",
+        "record-084",
+        "record-084"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-085",
+      "ids": [
+        "record-085",
+        "record-085",
+        "record-085"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-086",
+      "ids": [
+        "record-086",
+        "record-086",
+        "record-086"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-087",
+      "ids": [
+        "record-087",
+        "record-087",
+        "record-087"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-088",
+      "ids": [
+        "record-088",
+        "record-088",
+        "record-088"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-089",
+      "ids": [
+        "record-089",
+        "record-089",
+        "record-089"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-090",
+      "ids": [
+        "record-090",
+        "record-090",
+        "record-090"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-091",
+      "ids": [
+        "record-091",
+        "record-091",
+        "record-091"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-092",
+      "ids": [
+        "record-092",
+        "record-092",
+        "record-092"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-093",
+      "ids": [
+        "record-093",
+        "record-093",
+        "record-093"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-094",
+      "ids": [
+        "record-094",
+        "record-094",
+        "record-094"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-095",
+      "ids": [
+        "record-095",
+        "record-095",
+        "record-095"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-096",
+      "ids": [
+        "record-096",
+        "record-096",
+        "record-096"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-097",
+      "ids": [
+        "record-097",
+        "record-097",
+        "record-097"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-098",
+      "ids": [
+        "record-098",
+        "record-098",
+        "record-098"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-099",
+      "ids": [
+        "record-099",
+        "record-099",
+        "record-099"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "user_query": "record-100",
+      "ids": [
+        "record-100",
+        "record-100",
+        "record-100"
+      ],
+      "attack_indices": [
+        0,
+        1,
+        2
+      ],
+      "unsafe_responses": [
+        null,
+        null,
+        null
+      ],
+      "raw_responses": [
+        null,
+        null,
+        null
+      ],
+      "prompts": [
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

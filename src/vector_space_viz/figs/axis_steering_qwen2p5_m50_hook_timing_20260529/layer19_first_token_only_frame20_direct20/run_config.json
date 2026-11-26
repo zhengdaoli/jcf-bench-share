@@ -1,0 +1,28 @@
+{
+  "input_jsonl": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/frame_invariance_probe_prompts.jsonl",
+  "vectors": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/qwen2p5_frame_m50_20260511_135500_vectors.npz",
+  "metadata": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/qwen2p5_frame_m50_20260511_135500_metadata.csv",
+  "model": "[local path]",
+  "model_alias": "qwen2p5-7b-instruct",
+  "layer_index": 19,
+  "capture_point": "query_span",
+  "groups": [
+    "direct_single",
+    "translate_frame",
+    "rewrite_frame",
+    "extract_frame",
+    "single_record_sbq/json",
+    "multi_record_sbq/json"
+  ],
+  "max_per_group": 12,
+  "direct_scales": [
+    20.0
+  ],
+  "frame_scale": 20.0,
+  "steering_mode": "first_token_only",
+  "max_new_tokens": 96,
+  "dtype": "bfloat16",
+  "device_map": "auto",
+  "apply_chat_template": false,
+  "seed": 29
+}

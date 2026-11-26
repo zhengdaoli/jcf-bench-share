@@ -1,0 +1,104 @@
+{
+  "run_arguments": {
+    "vectors": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/qwen3_4b_frame_m50_tok48_20260511_151654_vectors.npz",
+    "metadata": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/qwen3_4b_frame_m50_tok48_20260511_151654_metadata.csv",
+    "output_dir": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42",
+    "capture_point": "query_span",
+    "layer_index": 19,
+    "label_col": "generation_refusal_heuristic",
+    "positive_label": "true",
+    "n_splits": 5,
+    "min_class": 6,
+    "seed": 42
+  },
+  "random_seed": 42,
+  "splitter": "StratifiedGroupKFold",
+  "requested_n_splits": 5,
+  "actual_n_splits": 5,
+  "num_prompt_units": 1144,
+  "num_source_prompts": 1170,
+  "num_query_components": 10,
+  "num_source_query_ids": 100,
+  "label_counts": {
+    "0": 859,
+    "1": 285
+  },
+  "axes": [
+    "direct_refusal",
+    "schema",
+    "task_frame",
+    "batch",
+    "multi_vs_single_sbq",
+    "unsafe_field"
+  ],
+  "feature_sets": {
+    "direct_only": [
+      "direct_refusal"
+    ],
+    "frame_only": [
+      "schema",
+      "task_frame",
+      "batch",
+      "multi_vs_single_sbq",
+      "unsafe_field"
+    ],
+    "direct_plus_frame": [
+      "direct_refusal",
+      "schema",
+      "task_frame",
+      "batch",
+      "multi_vs_single_sbq",
+      "unsafe_field"
+    ]
+  },
+  "metrics": {
+    "direct_only": {
+      "oof_auc": 0.6244204807711946,
+      "mean_fold_auc": 0.6613912687349274,
+      "std_fold_auc": 0.1560385022448072
+    },
+    "frame_only": {
+      "oof_auc": 0.7469088903866185,
+      "mean_fold_auc": 0.7572852594253787,
+      "std_fold_auc": 0.03773674515607954
+    },
+    "direct_plus_frame": {
+      "oof_auc": 0.7488327921083267,
+      "mean_fold_auc": 0.7707765062856563,
+      "std_fold_auc": 0.10054519964251332
+    }
+  },
+  "paired_differences": [
+    {
+      "feature_set_a": "direct_plus_frame",
+      "feature_set_b": "direct_only",
+      "mean_fold_auc_difference": 0.10938523755072897,
+      "std_fold_auc_difference": 0.06065713569269169,
+      "oof_auc_difference": 0.12441231133713204
+    },
+    {
+      "feature_set_a": "direct_plus_frame",
+      "feature_set_b": "frame_only",
+      "mean_fold_auc_difference": 0.013491246860277672,
+      "std_fold_auc_difference": 0.06392850851248633,
+      "oof_auc_difference": 0.0019239017217081988
+    },
+    {
+      "feature_set_a": "frame_only",
+      "feature_set_b": "direct_only",
+      "mean_fold_auc_difference": 0.09589399069045132,
+      "std_fold_auc_difference": 0.12190007657160393,
+      "oof_auc_difference": 0.12248840961542384
+    }
+  ],
+  "outputs": {
+    "fold_auc": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/fold_auc.csv",
+    "paired_feature_set_differences": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/paired_feature_set_differences.csv",
+    "oof_predictions": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/oof_predictions.csv",
+    "prompt_group_assignments": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/prompt_group_assignments.csv",
+    "query_group_assignments": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/query_group_assignments.csv",
+    "fold_axis_definitions": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/fold_axis_definitions.csv",
+    "fold_training_axes": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/fold_training_axes.npz",
+    "summary": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen3_4b_frame_m50_tok48/grouped_fold_refusal_readout_layer19_seed42/grouped_fold_refusal_readout_summary.json"
+  }
+}

@@ -1,0 +1,16 @@
+fold,splitter,feature_set,features,n_train,n_validation,validation_positive_rate,auc
+0,StratifiedGroupKFold,direct_only,direct_refusal,914,230,0.1782608695652174,0.610530391018196
+0,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",914,230,0.1782608695652174,0.863079106981546
+0,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",914,230,0.1782608695652174,0.8324945154213447
+1,StratifiedGroupKFold,direct_only,direct_refusal,914,230,0.21304347826086956,0.6570639305445936
+1,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",914,230,0.21304347826086956,0.8308151990077799
+1,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",914,230,0.21304347826086956,0.8325064832562858
+2,StratifiedGroupKFold,direct_only,direct_refusal,910,234,0.27350427350427353,0.4719209558823529
+2,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",910,234,0.27350427350427353,0.8424172794117647
+2,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",910,234,0.27350427350427353,0.7913143382352942
+3,StratifiedGroupKFold,direct_only,direct_refusal,922,222,0.17567567567567569,0.7270561860725795
+3,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",922,222,0.17567567567567569,0.8523189014992294
+3,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",922,222,0.17567567567567569,0.8733361356312176
+4,StratifiedGroupKFold,direct_only,direct_refusal,916,228,0.2236842105263158,0.6363686717624903
+4,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",916,228,0.2236842105263158,0.8399800598205384
+4,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",916,228,0.2236842105263158,0.858369336435139

@@ -1,0 +1,6 @@
+feature_set,features,cv_auc
+direct_refusal,direct_refusal_score,0.711136699507389
+direct_refusal+schema,"direct_refusal_score,schema_score",0.7667536945812807
+direct_refusal+schema+batch,"direct_refusal_score,schema_score,batch_score",0.7698854679802956
+frame_axes_only,"schema_score,task_frame_score,batch_score,multi_vs_single_sbq_score,unsafe_field_score",0.8273386699507389
+direct_refusal+frame_axes,"direct_refusal_score,schema_score,task_frame_score,batch_score,multi_vs_single_sbq_score,unsafe_field_score",0.8687931034482759

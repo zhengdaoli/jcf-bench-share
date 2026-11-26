@@ -1,0 +1,16 @@
+fold,splitter,feature_set,features,n_train,n_validation,validation_positive_rate,auc
+0,StratifiedGroupKFold,direct_only,direct_refusal,916,228,0.27631578947368424,0.7335738335738335
+0,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",916,228,0.27631578947368424,0.7626262626262625
+0,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",916,228,0.27631578947368424,0.8060125060125061
+1,StratifiedGroupKFold,direct_only,direct_refusal,910,234,0.24358974358974358,0.4303201506591337
+1,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",910,234,0.24358974358974358,0.6932798096937259
+1,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",910,234,0.24358974358974358,0.6066508078104866
+2,StratifiedGroupKFold,direct_only,direct_refusal,916,228,0.2543859649122807,0.5815922920892495
+2,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",916,228,0.2543859649122807,0.7603955375253549
+2,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",916,228,0.2543859649122807,0.7499492900608519
+3,StratifiedGroupKFold,direct_only,direct_refusal,920,224,0.17410714285714285,0.825086625086625
+3,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",920,224,0.17410714285714285,0.788080388080388
+3,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",920,224,0.17410714285714285,0.8632016632016631
+4,StratifiedGroupKFold,direct_only,direct_refusal,914,230,0.2956521739130435,0.7363834422657952
+4,StratifiedGroupKFold,frame_only,"schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",914,230,0.2956521739130435,0.782044299201162
+4,StratifiedGroupKFold,direct_plus_frame,"direct_refusal,schema,task_frame,batch,multi_vs_single_sbq,unsafe_field",914,230,0.2956521739130435,0.8280682643427741

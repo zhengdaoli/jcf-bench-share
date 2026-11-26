@@ -1,0 +1,104 @@
+{
+  "run_arguments": {
+    "vectors": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/qwen2p5_frame_m50_20260511_135500_vectors.npz",
+    "metadata": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/qwen2p5_frame_m50_20260511_135500_metadata.csv",
+    "output_dir": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42",
+    "capture_point": "query_span",
+    "layer_index": 19,
+    "label_col": "generation_refusal_heuristic",
+    "positive_label": "true",
+    "n_splits": 5,
+    "min_class": 6,
+    "seed": 42
+  },
+  "random_seed": 42,
+  "splitter": "StratifiedGroupKFold",
+  "requested_n_splits": 5,
+  "actual_n_splits": 5,
+  "num_prompt_units": 1144,
+  "num_source_prompts": 1170,
+  "num_query_components": 10,
+  "num_source_query_ids": 100,
+  "label_counts": {
+    "0": 900,
+    "1": 244
+  },
+  "axes": [
+    "direct_refusal",
+    "schema",
+    "task_frame",
+    "batch",
+    "multi_vs_single_sbq",
+    "unsafe_field"
+  ],
+  "feature_sets": {
+    "direct_only": [
+      "direct_refusal"
+    ],
+    "frame_only": [
+      "schema",
+      "task_frame",
+      "batch",
+      "multi_vs_single_sbq",
+      "unsafe_field"
+    ],
+    "direct_plus_frame": [
+      "direct_refusal",
+      "schema",
+      "task_frame",
+      "batch",
+      "multi_vs_single_sbq",
+      "unsafe_field"
+    ]
+  },
+  "metrics": {
+    "direct_only": {
+      "oof_auc": 0.6109813296903461,
+      "mean_fold_auc": 0.6205880270560424,
+      "std_fold_auc": 0.09369904383324906
+    },
+    "frame_only": {
+      "oof_auc": 0.8384904371584699,
+      "mean_fold_auc": 0.8457221093441717,
+      "std_fold_auc": 0.012358115179023698
+    },
+    "direct_plus_frame": {
+      "oof_auc": 0.8329166666666667,
+      "mean_fold_auc": 0.8376041617958563,
+      "std_fold_auc": 0.031236233006735073
+    }
+  },
+  "paired_differences": [
+    {
+      "feature_set_a": "direct_plus_frame",
+      "feature_set_b": "direct_only",
+      "mean_fold_auc_difference": 0.2170161347398138,
+      "std_fold_auc_difference": 0.06569322565119243,
+      "oof_auc_difference": 0.22193533697632062
+    },
+    {
+      "feature_set_a": "direct_plus_frame",
+      "feature_set_b": "frame_only",
+      "mean_fold_auc_difference": -0.008117947548315407,
+      "std_fold_auc_difference": 0.031623458631135276,
+      "oof_auc_difference": -0.005573770491803187
+    },
+    {
+      "feature_set_a": "frame_only",
+      "feature_set_b": "direct_only",
+      "mean_fold_auc_difference": 0.2251340822881292,
+      "std_fold_auc_difference": 0.09348723597436427,
+      "oof_auc_difference": 0.2275091074681238
+    }
+  ],
+  "outputs": {
+    "fold_auc": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/fold_auc.csv",
+    "paired_feature_set_differences": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/paired_feature_set_differences.csv",
+    "oof_predictions": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/oof_predictions.csv",
+    "prompt_group_assignments": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/prompt_group_assignments.csv",
+    "query_group_assignments": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/query_group_assignments.csv",
+    "fold_axis_definitions": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/fold_axis_definitions.csv",
+    "fold_training_axes": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/fold_training_axes.npz",
+    "summary": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_qwen2p5_m50/qwen2p5/grouped_fold_refusal_readout_layer19_seed42/grouped_fold_refusal_readout_summary.json"
+  }
+}

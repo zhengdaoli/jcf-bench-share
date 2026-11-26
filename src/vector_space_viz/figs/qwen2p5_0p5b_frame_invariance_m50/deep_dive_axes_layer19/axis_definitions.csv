@@ -1,0 +1,8 @@
+axis,description,n_positive,n_negative,status,direction_norm
+direct_refusal,refusal minus non-refusal within direct_single,62,38,ok,2.726273536682129
+all_refusal,refusal minus non-refusal over all mechanisms,144,1000,ok,2.857347249984741
+schema,structured SBQ prompts minus direct prompts,634,110,ok,7.724202632904053
+task_frame,semantic task-frame transformations minus direct_single prompts,400,100,ok,5.056336402893066
+batch,batched prompts minus single-record prompts,70,1074,ok,6.936426639556885
+multi_vs_single_sbq,multi-record SBQ minus single-record SBQ,60,574,ok,7.167891979217529
+unsafe_field,unsafe_response field name minus answer field name,317,317,ok,0.1521274447441101

@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "direct_refusal",
+    "status": "ok",
+    "n_positive": 70,
+    "n_negative": 30,
+    "positive_mean_score": 4.68387508392334,
+    "negative_mean_score": -25.311391830444336,
+    "label_delta": 29.99526596069336
+  },
+  {
+    "axis": "schema_frame",
+    "status": "ok",
+    "n_positive": 634,
+    "n_negative": 100,
+    "positive_mean_score": 11.805157661437988,
+    "negative_mean_score": -34.430606842041016,
+    "label_delta": 46.23576354980469
+  },
+  {
+    "axis": "task_frame",
+    "status": "ok",
+    "n_positive": 400,
+    "n_negative": 100,
+    "positive_mean_score": 9.923131942749023,
+    "negative_mean_score": -30.000288009643555,
+    "label_delta": 39.92341995239258
+  }
+]

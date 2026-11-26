@@ -1,0 +1,4 @@
+patch_mode,intervention,n,refusal_rate,mean_generated_tokens,mean_generated_chars
+generated_only,baseline,60,0.03333333333333333,95.38333333333334,454.8833333333333
+generated_only,patch_alpha_0.5,60,0.23333333333333334,95.95,261.3666666666667
+generated_only,patch_alpha_1,60,0.0,96.0,307.21666666666664

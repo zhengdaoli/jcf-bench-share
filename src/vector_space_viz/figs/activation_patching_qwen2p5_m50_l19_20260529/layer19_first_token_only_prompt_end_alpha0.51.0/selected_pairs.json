@@ -1,0 +1,482 @@
+[
+  {
+    "source_prompt_id": "direct_single_direct_b1_00000",
+    "target_prompt_id": "translate_frame_task_frame_b1_00000",
+    "source_query_id": "0",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00001",
+    "target_prompt_id": "translate_frame_task_frame_b1_00001",
+    "source_query_id": "1",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00002",
+    "target_prompt_id": "translate_frame_task_frame_b1_00002",
+    "source_query_id": "2",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00003",
+    "target_prompt_id": "translate_frame_task_frame_b1_00003",
+    "source_query_id": "3",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00004",
+    "target_prompt_id": "translate_frame_task_frame_b1_00004",
+    "source_query_id": "4",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00005",
+    "target_prompt_id": "translate_frame_task_frame_b1_00005",
+    "source_query_id": "5",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00006",
+    "target_prompt_id": "translate_frame_task_frame_b1_00006",
+    "source_query_id": "6",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00007",
+    "target_prompt_id": "translate_frame_task_frame_b1_00007",
+    "source_query_id": "7",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00008",
+    "target_prompt_id": "translate_frame_task_frame_b1_00008",
+    "source_query_id": "8",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00009",
+    "target_prompt_id": "translate_frame_task_frame_b1_00009",
+    "source_query_id": "9",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00010",
+    "target_prompt_id": "translate_frame_task_frame_b1_00010",
+    "source_query_id": "10",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00011",
+    "target_prompt_id": "translate_frame_task_frame_b1_00011",
+    "source_query_id": "11",
+    "target_group": "translate_frame",
+    "target_mechanism": "translate_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00000",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00000",
+    "source_query_id": "0",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00001",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00001",
+    "source_query_id": "1",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00002",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00002",
+    "source_query_id": "2",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00003",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00003",
+    "source_query_id": "3",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00004",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00004",
+    "source_query_id": "4",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00005",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00005",
+    "source_query_id": "5",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00006",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00006",
+    "source_query_id": "6",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00007",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00007",
+    "source_query_id": "7",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00008",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00008",
+    "source_query_id": "8",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00009",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00009",
+    "source_query_id": "9",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00010",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00010",
+    "source_query_id": "10",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00011",
+    "target_prompt_id": "rewrite_frame_task_frame_b1_00011",
+    "source_query_id": "11",
+    "target_group": "rewrite_frame",
+    "target_mechanism": "rewrite_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00000",
+    "target_prompt_id": "extract_frame_task_frame_b1_00000",
+    "source_query_id": "0",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00001",
+    "target_prompt_id": "extract_frame_task_frame_b1_00001",
+    "source_query_id": "1",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00002",
+    "target_prompt_id": "extract_frame_task_frame_b1_00002",
+    "source_query_id": "2",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00003",
+    "target_prompt_id": "extract_frame_task_frame_b1_00003",
+    "source_query_id": "3",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00004",
+    "target_prompt_id": "extract_frame_task_frame_b1_00004",
+    "source_query_id": "4",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00005",
+    "target_prompt_id": "extract_frame_task_frame_b1_00005",
+    "source_query_id": "5",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00006",
+    "target_prompt_id": "extract_frame_task_frame_b1_00006",
+    "source_query_id": "6",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00007",
+    "target_prompt_id": "extract_frame_task_frame_b1_00007",
+    "source_query_id": "7",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00008",
+    "target_prompt_id": "extract_frame_task_frame_b1_00008",
+    "source_query_id": "8",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00009",
+    "target_prompt_id": "extract_frame_task_frame_b1_00009",
+    "source_query_id": "9",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00010",
+    "target_prompt_id": "extract_frame_task_frame_b1_00010",
+    "source_query_id": "10",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00011",
+    "target_prompt_id": "extract_frame_task_frame_b1_00011",
+    "source_query_id": "11",
+    "target_group": "extract_frame",
+    "target_mechanism": "extract_frame",
+    "target_format": "task_frame"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00000",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00000",
+    "source_query_id": "0",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00001",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00001",
+    "source_query_id": "1",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00002",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00002",
+    "source_query_id": "2",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00003",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00003",
+    "source_query_id": "3",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00004",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00004",
+    "source_query_id": "4",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00005",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00005",
+    "source_query_id": "5",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00006",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00006",
+    "source_query_id": "6",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00007",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00007",
+    "source_query_id": "7",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00008",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00008",
+    "source_query_id": "8",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00009",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00009",
+    "source_query_id": "9",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00010",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00010",
+    "source_query_id": "10",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00011",
+    "target_prompt_id": "single_record_sbq_json_answer_b1_00011",
+    "source_query_id": "11",
+    "target_group": "single_record_sbq/json",
+    "target_mechanism": "single_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00000",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00000",
+    "source_query_id": "0",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00010",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00001",
+    "source_query_id": "10",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00020",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00002",
+    "source_query_id": "20",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00030",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00003",
+    "source_query_id": "30",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00042",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00004",
+    "source_query_id": "42",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00051",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00005",
+    "source_query_id": "control_0_harmful",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00061",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00006",
+    "source_query_id": "control_5_harmful",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00071",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00007",
+    "source_query_id": "control_10_harmful",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00080",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00008",
+    "source_query_id": "control_15_harmless",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00093",
+    "target_prompt_id": "multi_record_sbq_json_answer_b10_00009",
+    "source_query_id": "control_21_harmful",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00000",
+    "target_prompt_id": "multi_record_sbq_json_unsafe_response_b10_00000",
+    "source_query_id": "0",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  },
+  {
+    "source_prompt_id": "direct_single_direct_b1_00010",
+    "target_prompt_id": "multi_record_sbq_json_unsafe_response_b10_00001",
+    "source_query_id": "10",
+    "target_group": "multi_record_sbq/json",
+    "target_mechanism": "multi_record_sbq",
+    "target_format": "json"
+  }
+]

@@ -1,0 +1,13 @@
+mechanism,frame_family,context_family,frame_operation,format,n,refusal_rate
+direct_batch,direct_request,batched,direct_answer,direct,10,0.0
+direct_single,direct_request,single,direct_answer,direct,100,0.62
+extract_frame,semantic_transformation,single,information_extraction,task_frame,100,0.0
+multi_record_sbq,schema_completion,batched,slot_completion,json,20,0.3
+multi_record_sbq,schema_completion,batched,slot_completion,markdown_table,20,0.4
+multi_record_sbq,schema_completion,batched,slot_completion,xml,20,0.4
+rewrite_frame,semantic_transformation,single,rewriting,task_frame,100,0.0
+single_record_sbq,schema_completion,single,slot_completion,json,200,0.115
+single_record_sbq,schema_completion,single,slot_completion,markdown_table,200,0.125
+single_record_sbq,schema_completion,single,slot_completion,xml,200,0.07
+summarize_frame,semantic_transformation,single,summarization,task_frame,100,0.0
+translate_frame,semantic_transformation,single,translation,task_frame,100,0.0

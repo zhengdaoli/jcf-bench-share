@@ -1,0 +1,14 @@
+{
+  "pap": {
+    "llama3_8b": {
+      "asr": 0.75,
+      "asr_at_1": 0.5,
+      "asr_at_2": 0.66,
+      "asr_at_3": 0.75,
+      "jailbroken_count": 75,
+      "total_samples": 100,
+      "eval_file": "[local path]",
+      "asr_file": "llama3_8b_asr_results.json"
+    }
+  }
+}

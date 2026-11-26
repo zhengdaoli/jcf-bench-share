@@ -1,0 +1,24 @@
+{
+  "vectors": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/qwen2p5_0p5b_frame_m50_20260511_143537_vectors.npz",
+  "metadata": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/qwen2p5_0p5b_frame_m50_20260511_143537_metadata.csv",
+  "label_col": "generation_refusal_heuristic",
+  "positive_label": "true",
+  "group_col": "mechanism",
+  "capture_points": [
+    "prompt_end",
+    "query_span"
+  ],
+  "layers": [
+    8,
+    14,
+    19,
+    24
+  ],
+  "train_groups": [
+    "direct_single"
+  ],
+  "num_rows": 64,
+  "skipped": [],
+  "num_skipped": 0,
+  "probe_transfer": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/analysis_direct_single_selected/probe_transfer.csv"
+}

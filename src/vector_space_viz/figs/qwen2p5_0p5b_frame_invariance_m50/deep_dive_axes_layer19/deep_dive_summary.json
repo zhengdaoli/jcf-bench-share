@@ -1,0 +1,16 @@
+{
+  "vectors": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/qwen2p5_0p5b_frame_m50_20260511_143537_vectors.npz",
+  "metadata": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/qwen2p5_0p5b_frame_m50_20260511_143537_metadata.csv",
+  "capture_point": "query_span",
+  "layer_index": 19,
+  "num_prompt_units": 1144,
+  "outputs": {
+    "prompt_axis_scores": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/prompt_axis_scores.csv",
+    "axis_definitions": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/axis_definitions.csv",
+    "axis_auc_by_target": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/axis_auc_by_target.csv",
+    "projection_by_mechanism": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/projection_by_mechanism.csv",
+    "projection_by_format_field": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/projection_by_format_field.csv",
+    "combined_refusal_models": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/combined_refusal_models.csv",
+    "report": "$JCF_CACHE/vector_space_viz/runs/frame_invariance_cross_model_selected/qwen2p5_0p5b_frame_m50/deep_dive_axes_layer19/deep_dive_report.md"
+  }
+}

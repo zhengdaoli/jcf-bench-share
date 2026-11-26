@@ -1,0 +1,31 @@
+fold,n_train_prompts,n_validation_prompts,n_train_components,n_validation_components,n_train_query_ids,n_validation_query_ids,axis,description,n_positive_train,n_negative_train,direction_norm
+0,914,230,8,2,80,20,direct_refusal,refusal minus non-refusal within direct_single,56,24,12.89047874660011
+0,914,230,8,2,80,20,schema,structured SBQ prompts minus direct prompts,506,88,31.109774247154352
+0,914,230,8,2,80,20,task_frame,semantic task-frame transformations minus direct_single prompts,320,80,20.26666677261387
+0,914,230,8,2,80,20,batch,batched prompts minus single-record prompts,56,858,26.005572323579084
+0,914,230,8,2,80,20,multi_vs_single_sbq,multi-record SBQ minus single-record SBQ,48,458,26.10739538134433
+0,914,230,8,2,80,20,unsafe_field,unsafe_response field name minus answer field name,253,253,0.5412551320079527
+1,914,230,8,2,80,20,direct_refusal,refusal minus non-refusal within direct_single,58,22,14.39624538680465
+1,914,230,8,2,80,20,schema,structured SBQ prompts minus direct prompts,506,88,30.94274020003959
+1,914,230,8,2,80,20,task_frame,semantic task-frame transformations minus direct_single prompts,320,80,19.94522016322248
+1,914,230,8,2,80,20,batch,batched prompts minus single-record prompts,56,858,25.762951532298384
+1,914,230,8,2,80,20,multi_vs_single_sbq,multi-record SBQ minus single-record SBQ,48,458,25.92144808530321
+1,914,230,8,2,80,20,unsafe_field,unsafe_response field name minus answer field name,253,253,0.5377643080378403
+2,910,234,8,2,80,20,direct_refusal,refusal minus non-refusal within direct_single,52,28,13.740828378773777
+2,910,234,8,2,80,20,schema,structured SBQ prompts minus direct prompts,502,88,30.49441287001851
+2,910,234,8,2,80,20,task_frame,semantic task-frame transformations minus direct_single prompts,320,80,20.03509851950883
+2,910,234,8,2,80,20,batch,batched prompts minus single-record prompts,56,854,25.708136021342998
+2,910,234,8,2,80,20,multi_vs_single_sbq,multi-record SBQ minus single-record SBQ,48,454,25.511665184012678
+2,910,234,8,2,80,20,unsafe_field,unsafe_response field name minus answer field name,251,251,0.5415344584739513
+3,922,222,8,2,80,20,direct_refusal,refusal minus non-refusal within direct_single,58,22,14.38402539331913
+3,922,222,8,2,80,20,schema,structured SBQ prompts minus direct prompts,514,88,31.27333952950564
+3,922,222,8,2,80,20,task_frame,semantic task-frame transformations minus direct_single prompts,320,80,20.199845863166825
+3,922,222,8,2,80,20,batch,batched prompts minus single-record prompts,56,866,26.26949798157482
+3,922,222,8,2,80,20,multi_vs_single_sbq,multi-record SBQ minus single-record SBQ,48,466,26.703063201732707
+3,922,222,8,2,80,20,unsafe_field,unsafe_response field name minus answer field name,257,257,0.5538076559804492
+4,916,228,8,2,80,20,direct_refusal,refusal minus non-refusal within direct_single,56,24,14.562305354151393
+4,916,228,8,2,80,20,schema,structured SBQ prompts minus direct prompts,508,88,30.92288988196153
+4,916,228,8,2,80,20,task_frame,semantic task-frame transformations minus direct_single prompts,320,80,20.081984508490404
+4,916,228,8,2,80,20,batch,batched prompts minus single-record prompts,56,860,25.701872805181214
+4,916,228,8,2,80,20,multi_vs_single_sbq,multi-record SBQ minus single-record SBQ,48,460,25.854214736110162
+4,916,228,8,2,80,20,unsafe_field,unsafe_response field name minus answer field name,254,254,0.5395197037729815

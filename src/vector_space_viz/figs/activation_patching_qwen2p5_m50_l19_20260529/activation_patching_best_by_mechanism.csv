@@ -1,0 +1,6 @@
+run_dir,mechanism,format,target_group,patch_mode,intervention,n,refusal_rate,mean_generated_tokens,mean_generated_chars,baseline_refusal_rate,delta_vs_baseline
+layer19_first_token_only_prompt_end_alpha0.51.0,extract_frame,task_frame,extract_frame,first_token_only,patch_alpha_1,12,0.3333333333333333,95.41666666666669,437.5833333333333,0.0,0.3333333333333333
+layer19_all_prompt_end_alpha0.51.0,multi_record_sbq,json,multi_record_sbq/json,all,patch_alpha_0.5,12,0.0833333333333333,96.0,288.4166666666667,0.0833333333333333,0.0
+layer19_generated_only_prompt_end_alpha0.51.0,rewrite_frame,task_frame,rewrite_frame,generated_only,patch_alpha_0.5,12,0.25,95.83333333333331,304.6666666666667,0.0,0.25
+layer19_generated_only_prompt_end_alpha0.51.0,single_record_sbq,json,single_record_sbq/json,generated_only,patch_alpha_0.5,12,0.3333333333333333,96.0,256.25,0.0833333333333333,0.25
+layer19_first_token_only_prompt_end_alpha0.51.0,translate_frame,task_frame,translate_frame,first_token_only,patch_alpha_1,12,0.5,95.0,479.3333333333333,0.0,0.5

@@ -1,0 +1,18 @@
+{
+  "model": "mistral-7b-instruct",
+  "experiment": "Aggregation vs. Task Reframing",
+  "attack_times": 3,
+  "rows": [
+    {
+      "condition": "Multi-record SBQ",
+      "semantics": "structured completion",
+      "batch_size": 10,
+      "ASR@1": 0.29,
+      "ASR@2": 0.34,
+      "ASR@3": 0.34,
+      "total_samples": 100,
+      "eval_file": "outputs/control/mistral-7b-instruct/mistral-7b-instruct_exp1_multi_record_sbq_batch10_attack3_evaluation.json"
+    }
+  ],
+  "timestamp": "2026-05-04T15:18:37.224698"
+}
